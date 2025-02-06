@@ -11,9 +11,9 @@ Installation:
 You must install Java 22 or higher.
 
 Execution
-Download the project.
-Compile the project.
-Run main.
+    Download the project.
+    Compile the project.
+    Run main.
 
 Contributions:
 
@@ -24,5 +24,7 @@ Contributions:
     5. A horse object with its own characteristics.
     6. A collection of horses to avoid generating the same name.
     7. A detail about how many times this horse has won.
+
+    Work in dev branch: use "git checkout dev";
 
 You will always need to create a working branch.
